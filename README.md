@@ -1,5 +1,5 @@
 # LLM-Classification-Finetuning
-Building models to predict human preferences when given the choice between AI chatbots. Using a dataset of conversations from the Chatbot Arena, where different LLMs generate answers to user prompts.
+Building models to predict human preferences when given the choice between AI chatbots for a Kaggle Competition. Using a dataset of conversations from the Chatbot Arena, where different LLMs generate answers to user prompts.
 
 This challenge aligns with the concept of "reward models" or "preference models" in reinforcement learning from human feedback (RLHF). Previous research has identified limitations in directly prompting an existing LLM for preference predictions. These limitations often stem from biases such as favoring responses presented first (position bias), being overly verbose (verbosity bias), or exhibiting self-promotion (self-enhancement bias).
 
